@@ -1,0 +1,1 @@
+This library follows the guidelines for the PLTK, which can be found in the pltk repo in [CONTRIBUTING.md](https://github.com/programming-language-toolkit/pltk/blob/main/CONTRIBUTING.md).
