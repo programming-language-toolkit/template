@@ -15,7 +15,7 @@ TIME_FORMAT="%E elapsed  (%U user  %S system)  |  %P CPU  |  %Xk text  %Dk data 
 
 .PHONY: error
 error:
-	@echo "Error: no default make rule provided"
+	@echo "Error: please provide a make rule"
 
 
 .PHONY: all
